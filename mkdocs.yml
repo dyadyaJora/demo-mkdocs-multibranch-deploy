@@ -1,0 +1,12 @@
+site_name: AWS S3 Multibranch Deploy Demo
+site_author: '@dyadyajora'
+site_description: Demo for AWS S2 multibranch deploy github action for mkdocs site.
+repo_name: dyadyajora/demo-mkdocs-multibranch-deploy
+repo_url: https://github.com/dyadyajora/demo-mkdocs-multibranch-deploy
+edit_uri: ""
+use_directory_urls: false
+nav:
+  - Home: index.md
+  - About: about.md
+plugins:
+  - search
